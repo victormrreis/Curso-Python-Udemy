@@ -12,5 +12,7 @@ print('Victor Martins')
 print("Victor Martins")
 
 #Escape
+print("Victor \"Martins\"") # Caracter de escape "\"
 
 # r
+print(r"Victor \"Martins\"") # O "r" permite que as barras invertidas sejam visualizadas
