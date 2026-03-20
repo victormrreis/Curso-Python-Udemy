@@ -6,6 +6,7 @@ print(1.1) # float
 
 # Na programação "." sempre separa as casas decimais dos números
 
-# Função type
+# Função(Classe) type
 
 print(type(1 + 1))
+print(type(""))
